@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-family: 'proxima-nova', sans-serif;
+}
+
+.logo {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    width: 40px;
+}
+
+#profile_img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+}
